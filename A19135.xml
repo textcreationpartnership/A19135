@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De nominibus heteroclitis</title>
+            <author>Colet, John, 1467?-1519.</author>
+         </titleStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19135</idno><idno type="EEBO-CITATION">34382594</idno>
+  <idno type="VID">29023</idno>
+  <idno type="EEBO-PROQUEST">2240940912</idno>
+  <idno type="STC">STC 5543B.9</idno>
+  <idno type="STC">ESTC S3964</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A19135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29023)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1892:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>De nominibus heteroclitis</title>
+                  <author>Colet, John, 1467?-1519.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Impressum per me Ioannem Redmanni,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>ca. 1540]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher from colophon.</note>
+                  <note>Added title and date of publication suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in: John Rylands University Library of Manchester.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Latin language --  Grammar --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="part">
+            <pb facs="tcp:29023:1"/>
+            <pb facs="tcp:29023:1"/>
+            <head>¶ DE NOMINIBVS HETEROCLITIS.</head>
+            <div type="section">
+               <head>¶ Defectiua in casu, &amp; numero.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>aec fors, forte. Hūc laterē, latere, Hane didionē, ditione. Hęc lues, luē, lue. Hoc hui{us} hoc tantūdē, &amp; specus. Grates vox pluralis est. Satias in nominatiuo tantū. suppetię, &amp; suppetias, inficię, infitias. re<g ref="char:EOLhyphen"/>petundarum, repetundis, dicam, dicas, tabi, tabo. spon te. flamine. impete. natu. astu. promptu. noctu. diu. ma<g ref="char:EOLhyphen"/>cte vocatiuus est solus. labeo. ganeo, &amp; aleo nominati uos tantum &amp; vocatiuos habent. obice. fruge. prece. viscere. in abltō tantū. legit̄ tamen huius precis. huic preci. huic frugi. frugē, fruge. pluralē integrū habent.</p>
+            </div>
+            <div type="section">
+               <head>¶ Carentia nominatiuis singularibus.</head>
+               <p>Remigis. frondis. verberis. dapis. necis. foeminis.</p>
+            </div>
+            <div type="section">
+               <head>¶ Habentia tres casus singulares.</head>
+               <p>Hoc plus, pluris, plus. virus, virus, o virus. hui{us} opis opem ope. huius vicis, vicem, vice. At hęc vis huius vis, vim, vi. quatuor habet casus: in plurali in nullo deficiunt.</p>
+            </div>
+            <div type="section">
+               <head>¶ Habentia tres casus plurales.</head>
+               <p>Iura. rura. aera. ora. maria. vina. mora. terra. hordea. thura. mella. fella fora. defruta. mulsa. Et quinte decli<g ref="char:EOLhyphen"/>nationis nomina, vt pernities. spes. Demuntur haec res. species. dies. meridies. acies. facies. materies. proge<g ref="char:EOLhyphen"/>nies.</p>
+            </div>
+            <div type="section">
+               <head>¶ Numero plurali carentia.</head>
+               <p>Vt deorum. hominum. vrbium. montium. syluarum. fluuiorum, &amp; locorum proprianomina; nisi sua natu<g ref="char:EOLhyphen"/>ta pluraliter tamtummodo, aut confuse proferantur.</p>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:29023:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:29023:2"/>
+               <pb facs="tcp:29023:3"/>
+               <p>Vt Athenę Thebę. Cumę. Veię. Puteoli, Argi, legi<g ref="char:EOLhyphen"/>tur &amp; Argos.</p>
+            </div>
+            <div type="section">
+               <head>Masculina singularia</head>
+               <p>Quae ex usu communi pluralem non admittunt. san<g ref="char:EOLhyphen"/>guis. fumus. puluis. limus. pontus. sapo. mundus. fi<g ref="char:EOLhyphen"/>inus. sol. genuinus. sal. aether. aer. cest us. vesper. vis<g ref="char:EOLhyphen"/>cus, seu viscum.</p>
+            </div>
+            <div type="section">
+               <head>¶ Feminina singularia.</head>
+               <p>Pax. mors. uita. fames. sitis. lux. gloria. fama. falus<g ref="char:EOLhyphen"/>lues. gaza. tabes. labes. humus. proles. soboles. pix. senecta: senectus. inuenta, inuentus. penus. fuga. fi<g ref="char:EOLhyphen"/>des. indoles. eloquentia. prosapia. strues. tussis. bilis. colera. pinguedo. grando. culpa. gula. rabies. fames. secordia. uecordia. parsimonia. auaritia. caries. per<g ref="char:EOLhyphen"/>nities. sapientia. stulticie. insania. dementia. amentia. diligentia. elegantia. memoria. amicitia. arena. uespe ra, &amp; paupertas. Inuenies tamen aliquorum pluralia apud authores.</p>
+            </div>
+            <div type="section">
+               <head>¶ Neutra singularia.</head>
+               <p>Phas. nephas. ir. pus, ador. lac. solum. senium. salum. lethum. cenum. aeuum. virus indeclinabile. epar. cere brum. laridum, seuum. abdomen. pingue. uer, vulg{us}. pelagus, gelu. māna. mammona. pascha, crocum. ba<g ref="char:EOLhyphen"/>ratrum. nil. nihil, nihilum. necesse. uesper, uesperum lutum. mane. uiscum. specum. penum. macellum. bitu<g ref="char:EOLhyphen"/>men. alumen. pir. purissum. Et quaedam alia colo<g ref="char:EOLhyphen"/>rum nomina, pręter atramentum. nitrum, &amp; uitrum. Accedunt ab hęc reliqua nomina metallorum excep<g ref="char:EOLhyphen"/>to aes, &amp; electrum. Adde &amp; nomina liquidorum: vt ius, polenta. Et aridorum humi nascentium, quę ad mensuram, pondus ue referuntur, cuiuscun{que} generis
+<pb facs="tcp:29023:3"/>sunt. ut triticum. cicer. piper. milium. foenum. Sic etiā erugo, cadmia. sandix. sandaraca. cerussa. chrysocol<g ref="char:EOLhyphen"/>la. sunt pręterea quę pluralem nō refugerunt: aequor. mare. mel. fel. uinum. cum paucis aliis.</p>
+            </div>
+            <div type="section">
+               <head>Masculina pluralia.</head>
+               <p>Quirites. primates. Optimates. proceres. minores. ma iores. cęlites. posteri. superi. inferi. penates. liberi. le<g ref="char:EOLhyphen"/>mures. sales. cani. fori. manes. falces. antes. ambo. car<g ref="char:EOLhyphen"/>ceres. casses. furfures. pugillares. codicilli. loculi. na<g ref="char:EOLhyphen"/>tales. fasti, annales. cancelli. lares. sentes. uepres. se<g ref="char:EOLhyphen"/>res. adde luceres. tacienses. quintilii, fabii. locri, &amp; si<g ref="char:EOLhyphen"/>milia. ludorum quo{que} et festorum multa nomina. Vt Appolinares. Quinquatres. Circenses. &amp; plura.</p>
+            </div>
+            <div type="section">
+               <head>Feminina pluralia.</head>
+               <p>Calende. Idus. ferię. nundine. nonę. inducię. latebrę. tenebrę. lactes. theremę. excubię. exuuie. primitię. in ferię. exequie. inficie. suppecie. dire. trice. ambages. gades. fidicule. palee. quisquilie. reliquie. blanditiae. opes. cantes. mine. phalere. nuge. insidie. facetie. ille<g ref="char:EOLhyphen"/>cebre. delitie. diuitie. nuptie. arguie. cune. scale. sco<g ref="char:EOLhyphen"/>pe. bige. trige. quadrige. compedes. inimititie. gene. ancie. nares. manubie. ambe. fores. ualue. &amp; festorū. nomina: ut latine. Item Cerimonie. Decretales. cretel le. &amp; mappe.</p>
+            </div>
+            <div type="section">
+               <head>Neutra pluralia.</head>
+               <p>Precordia. cunabula. lustra. castra. rostra. seria. arma sponsalia. extra. tripudia. spolia. liba. cibaria. classica serta. iusta. bactra. artaxata. susa. carchesia. crepun<g ref="char:EOLhyphen"/>dia. ceraunia. lachana. flabra. iuga. itestina. peana. cy thera. effata. orgia. comitia. viridia. tes{que} aulea. moe<g ref="char:EOLhyphen"/>nia. magalia. mapalia, altaria. palearia. Adduntur fe<g ref="char:EOLhyphen"/>storum
+<pb facs="tcp:29023:4"/>ludorum{que} nomina, ut bacchanalia, parenta<g ref="char:EOLhyphen"/>lia. neptunalia. In plurali hęc ostrea. &amp; hec hostrea, o stree.</p>
+            </div>
+            <div type="section">
+               <head>¶ Masculina in plurali neutralia.</head>
+               <p>Tartarus, tartara, dindymus, dindyma. tenarus, te<g ref="char:EOLhyphen"/>nara, suparus, supara. cetus, cete. menalus menala hi<g ref="char:EOLhyphen"/>smarus, hismara. taigetus, taigeta. pangeus, pangea. gargarus, gargara. pileus, pilea. carbasus, carbasa. in fernus, inferna. auernus, auerna. massicus massica, &amp; hi massici. sibilus, sibila, &amp; hisibili. Balthe{us}, balthea, &amp; hi balthei. iocus, ioca, &amp; hi ioci. locus, loca, &amp; hi lo<g ref="char:EOLhyphen"/>ci. Euentus, euenta, &amp; hi euentus. iussus, iussa. permis<g ref="char:EOLhyphen"/>sus, permissa.</p>
+            </div>
+            <div type="section">
+               <head>¶ Ferminina in plurali neutralia.</head>
+               <p>Pergamus, pargama. intybus, intyba, &amp; intybi. arbu tus, arbuta. altilis, &amp; altilia. reptilis, reptilia. suppel<g ref="char:EOLhyphen"/>lex, suppellectia. pascua. hęc pascua. zizania, hęc zi<g ref="char:EOLhyphen"/>zania. bucolica, bucolica. georgica, georgica. rheto<g ref="char:EOLhyphen"/>rica, Rhetorica. Thopica, Thopica: &amp; similia.</p>
+            </div>
+            <div type="section">
+               <head>¶ Neutralia, in plurali masculina.</head>
+               <p>Filū, hi fili, &amp; haec fila. frenum, freni, &amp; frena. rastrum, rastri, rastra. claustrum, claustri, claustra, capistrum, capistri, capistra. porrum, porri, porra. elisium, elisii coelum, coeli. argos, argi. specus, specus.</p>
+            </div>
+            <div type="section">
+               <head>¶ Neutra, in plurali feminina</head>
+               <p>Epulum, epulę. balneum. balneę, hęc balnea. delitium delitię. caepe, caepe. nundinum, nundine. amigdalum, amigdalę, &amp; hęc amigdala.</p>
+            </div>
+            <div type="section">
+               <head>¶ Quę plurifarium efferūt nominatiuū.</head>
+               <p>Hic tonitrus, hoc tonitrum, &amp; tonitru. baculus, ba<g ref="char:EOLhyphen"/>culum, stimulus, stimulum. tignus, tignum. pisa pisū.
+<pb facs="tcp:29023:4"/>Nasus, nasa, nasum. spicus, spica, spicum. sinus, sinum. angiportus, angiportum. tapes, tapetum, tapete. ues<g ref="char:EOLhyphen"/>pera vesperum. mundum, mundus. gelu, gelus. artus, artu. clipeus, clipeum. singrapha, singraphum, sester<g ref="char:EOLhyphen"/>tius sestertium. Cristallus, cristallum. margarita, mar<g ref="char:EOLhyphen"/>garitum, galerus, galerum. cothon, cothonum. cra<g ref="char:EOLhyphen"/>ter, cratera. panter, pantera. turbo, turben. tiara, tia<g ref="char:EOLhyphen"/>ras. habenus, habenum, sanguis, sangen. ilios, ilium, &amp; ilion. saguntus, saguntum. gibbus, gibba. fūdus fun dum. curriculus, curriculum. commentarius, cōmer<g ref="char:EOLhyphen"/>tarium. lectus, lectum. vultus, vultum. rictus, rictum. monitus, monitum. fretum, fretus. tributum, tributus sinapi, sinapis. gummi, gummis.</p>
+            </div>
+            <div type="section">
+               <head>¶ Quae in vario nominatiuo seruant genus.</head>
+               <p>Haec cassis, cassida. apes, apis. adeps, adipes, stips, sti<g ref="char:EOLhyphen"/>pis. scobs, scobis. delphin, delphinis. &amp; delphis. co<g ref="char:EOLhyphen"/>meta, cometes, comete. arabs, arabus. congrus, con<g ref="char:EOLhyphen"/>ger. gobio, gobius. mugil, mugilis, elephas, elephan tus. tybris, tyberis, arar, araris. puluis, puluer. cucu<g ref="char:EOLhyphen"/>mis, cucumer. cinis, ciner, vomis, vomer. puber, pu<g ref="char:EOLhyphen"/>bis. labor, labos. lepor, lepos. honor, honos. arbor, arbos. odor, odos. vapor, uapos. clamor, &amp; clamos. iber, iberus. prosper, prosperus. teucer teucrus. euan der, euandrus. athon, athos. oedipus, oedipos, &amp; plu<g ref="char:EOLhyphen"/>ra huiusmodi.</p>
+            </div>
+            <div type="section">
+               <head>¶ Confusa in recto.</head>
+               <p>Lens, lendis, &amp; lentis. cassis, cassis, &amp; cassidis. glis, gli<g ref="char:EOLhyphen"/>ris, glitis, &amp; glissis. vas, vasis, &amp; vadis. pecus, pecudis &amp; pecoris, fides, fidis, &amp; fidei.</p>
+            </div>
+            <trailer>¶ Finis.</trailer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:29023:5"/>
+            <head>¶ Regule versificales.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Armen exametrum constat pedibus numero sex, genere vero duobus, videlicet spondeo, &amp; dactilo, quintus locus dactilū, sextus spon<g ref="char:EOLhyphen"/>deum sibi vendicat, reliqui hunc, vel illum, vt volu<g ref="char:EOLhyphen"/>mus. Dactilus constat ex vna syllaba longa, &amp; dua<g ref="char:EOLhyphen"/>bus breuibus, vt veuere. Spondeus constat ex dua<g ref="char:EOLhyphen"/>bus longis, vt virtus.</p>
+            <p>Pentametrum constat ex quin{que} pedibus, duob{us} pri<g ref="char:EOLhyphen"/>mis pedibus dactilicis, spondeicis, vel alterutris cum pentimeri longa, deinde sumit duos dactilos, cū alt<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ra pentimeri longa.</p>
+            <p>Vocalis ante duos consonantes longa est, vt uentus<g ref="char:EOLhyphen"/>ante mutam, &amp; liquidam l. uel r. si natura breuis est, communis efticitur, ut patris.</p>
+            <p>Vocalis ante uocalem, in eadem dictione breuis est, ut deus, Exceptis genitiuis nominum &amp;, pronominū in ius, ubi ponitur indifferenter, ut unius, illius, in ali<g ref="char:EOLhyphen"/>us seihper producitur, in alterius semper corripitur, exceptis genituis, &amp; datiuis quite declinationis, ubi einter duo iproducitur, ut speciei.</p>
+            <p>Vocalis ante uo calem, in diuersis dictionibus prima atteritur, ut ille, ego, metiam litera si priori adiunga tur, atteritur ut, illum ego.</p>
+            <p>I, &amp; u iuncte uocalibus, uel sibiipsis in eadem sylla<g ref="char:EOLhyphen"/>ba consonantes sunt. ut Iuno, uates.</p>
+            <pb facs="tcp:29023:5"/>
+            <p> I consonans inter duas uocales, duplex est, etiam si a mittat sequentem uocalem, ut Caius, Caii, cuius, cui<g ref="char:EOLhyphen"/>tamen in ei pronomine fit uocalis, in compositis sim<g ref="char:EOLhyphen"/>plex est, ut reiicere,</p>
+            <p>In iftis dictionibus dii, diis, ii, iisdem, idem, dein, de inde, proinde, dehinc, deiceps, semianimus, semiho<g ref="char:EOLhyphen"/>mo, semiustus</p>
+            <p>In scantione uo calis ante uocalem abiicitur, similiter ex uo cib us huius uerbi, sum, a uocali incipientibus, &amp; cum deprepositione compositis, ut deest, deerat,</p>
+            <p>Omnis diphtongus longa est. ut aula. euge. si sequa<g ref="char:EOLhyphen"/>tur uo calis breuis est, ut praeire.</p>
+            <p>Simplex cognoscitur ex suo composito, per accen<g ref="char:EOLhyphen"/>tum, qui, si acutus, facit syllabam longam, si grauis, breuē. Accētus ualet ad syllabas, que sunt, uel pos<g ref="char:EOLhyphen"/>sunt esse penultime per subtractionem syllabarum se<g ref="char:EOLhyphen"/>quetium, ut lego / colligo.</p>
+            <p>Desinentia in uocalem producuntur, excipiuntur ita quia puta. cū nominatiuis; accusatiuis, &amp; uocatiuis in a, &amp; cū numerabilibus in genta.</p>
+            <p>Item Bene. Male. Rite. Ne pro an. Ve pro uel. Que pro et, cum nominibus secunde, et tertiae declinutio<g ref="char:EOLhyphen"/>nis. Et uerbis in e desinentibus, quae corripiuntur, ni<g ref="char:EOLhyphen"/>si sint secundae personae, singularis numeri; imperati<g ref="char:EOLhyphen"/>ui modi secundae cōiugationis.</p>
+            <pb facs="tcp:29023:6"/>
+            <p> Excipiuntur etiam: nisi, quasi, mihi, tibi, sibi, vbi, ibi &amp; in o nominatiui, &amp; uocatiui, &amp; uerba polisyllaba. cum his aduerbiis / mutuo, sero, cito, modo, crebro, profecto, ergo: quę omnia communia sunt.</p>
+            <p>In b..d..g.l.n.s.r. &amp; t. corripiuntur: producimus tamē sol, nil, ren, splen, iber, sentuber, cor, fur, lar, far, ver &amp; par.</p>
+            <p>In c. &amp; h producuntur, pręter lac, nec &amp; donec.</p>
+            <p>In as: &amp; in es, &amp; in os producuntur. corripimus inqui<g ref="char:EOLhyphen"/>es nomen. es verbum. penes prepositionem, &amp; cres<g ref="char:EOLhyphen"/>centia in genitino penultima graui in tis, vt miles, mi litis, compos, compotis. adde hiis os, ossis</p>
+            <p>In is, &amp; in us corripiuntur, producimus tamen haben tia penultimam genitiui longam, vt virtus, virtutis. samnis, samnitis. &amp; in his casus plurales in us, geniti<g ref="char:EOLhyphen"/>uos singulares, &amp; nominatinos, accusatiuos, &amp; voca<g ref="char:EOLhyphen"/>tiuos quartę declinationis, cumsecundis personis in<g ref="char:EOLhyphen"/>dicatiui modi quartę coniugationis.</p>
+            <p>Item nomina substantiua, &amp; verba monosyllaba pro<g ref="char:EOLhyphen"/>ducuntur, ut lis, uis, sis.</p>
+            <p>De: ubi{que} producitur, ut deduco nisi cōponatur cum dictione incipiente a nocali: ut deisco.</p>
+            <p>Hęc breuiter de syllibarū quantitate dicta sufficiant.</p>
+         </div>
+         <div type="colophon">
+            <p>¶ Impressum per me loannem Redmani.</p>
+            <pb facs="tcp:29023:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
